@@ -27,7 +27,7 @@ What you'll learn:
 
 ## MODULE 2: How To Design Data (HTDD)
 
-In the third lesson from module 2: How to Design Data - Atomic Non-Distinct, we learn how to Design Data (HtDD recipe) and Data Driven Templates recipes.
+In the third lesson from **module 2: How to Design Data - Atomic Non-Distinct**, we learn how to Design Data (HtDD recipe) and Data Driven Templates recipes.
  
 Data definitions are a driving element in the design recipes.
 A data definition establishes the represent/interpret relationship between information and data:
