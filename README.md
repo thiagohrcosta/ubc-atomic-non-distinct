@@ -79,6 +79,6 @@ Using the CityName data definition below design a function that produces true if
 The answer is:
 
 > (define (best? cn) <br>
->   (if (string=? cn "Vancouvere")<br>
+>   (if (string=? cn "Vancouver")<br>
 >       true<br>
 >       false))<br>
