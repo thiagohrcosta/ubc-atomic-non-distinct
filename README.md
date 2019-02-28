@@ -66,7 +66,7 @@ Use simple atomic data when the information to be represented is itself atomic i
 > ;;  - atomic non-distinct: Natural<br>
 > <br>
 
-## HOW TO FOMR ATOMIC NON-DISTINCT
+## HOW TO FORM ATOMIC NON-DISTINCT
 
 > (define (fn-for-city-name cn)<br>
 >    (... cn))<br>
